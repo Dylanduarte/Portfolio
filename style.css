@@ -95,7 +95,12 @@ section{
     grid-template-columns: repeat(3,1fr);
     max-width: 70%;
     gap: 40px;
+    
 }
+
+
+
+
 .iconSkill{
     font-size: 60px;
     color: var(--colorBlue);
@@ -130,3 +135,8 @@ section{
 .form-control::placeholder{
     color: var(--colorMediumGray);
 }
+
+
+
+
+/*------col gritTemplate mt-1------*/
